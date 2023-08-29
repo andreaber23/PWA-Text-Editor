@@ -22,7 +22,7 @@ To be able to use this application, make sure to run it from your root folder an
 
 User can download the application to their desktop for easier and faster use. It works online and offline
 
-## Application Link - Heroku
+## Link
 
 https://damp-retreat-93740-4c6cf8bac678.herokuapp.com/
 
