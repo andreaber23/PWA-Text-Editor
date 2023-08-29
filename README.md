@@ -6,7 +6,7 @@ This text editor aplication works online and offline. User can download it to th
 ## Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Application-Link-Heroku](#Application-Link-Heroku)
+- [Link](#link)
 - [Screenshots](#screenshots)
 - [License](#license)
 - [Contributing](#contributing)
